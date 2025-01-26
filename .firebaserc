@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "forclient2nd"
-  }
+  },
+  "targets": {
+    "forclient2nd": {
+      "hosting": {
+        "health100": [
+          "health100"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
